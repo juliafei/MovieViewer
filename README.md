@@ -2,16 +2,16 @@
 
 **Movie Viewer** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **1** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-- [yes] User can view a list of movies currently playing in theaters from The Movie Database.
-- [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ ] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
+- [y] User can view a list of movies currently playing in theaters from The Movie Database.
+- [y] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [y] User sees a loading state while waiting for the movies API.
+- [y] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -34,13 +34,12 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/M7p07TY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/zi3Wnp4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I followed everything in the videos and have no errors while compiling, however there was a breakpoint when I ran the code (as shown above in my video walkthrough).
 
 ## License
 
