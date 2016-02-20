@@ -9,8 +9,8 @@ Time spent: **1** hours spent in total
 The following **required** functionality is completed:
 
 - [x] User can view movie details by tapping on a cell.
-- [ ] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
-- [ ] Customize the selection effect of the cell.
+- [x] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
+- [x] Customize the selection effect of the cell.
 
 The following **optional** features are implemented:
 
@@ -36,7 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wrote the code for both the scroll and tabs, but there is always a breakpoint error. The code compiles and builds fine but it doesn't run. 
+I have posted this question on slack and I am waiting for further help.
+
 
 ## License
 
